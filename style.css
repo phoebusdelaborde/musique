@@ -1,0 +1,756 @@
+.conteneur {
+    position: relative;
+    width: 120px;
+    height: 120px;
+  top:1280px;
+  left:240px;
+  object-fit: cover;
+   
+  transform: rotate(-55deg);
+}
+.conteneu {
+    position: relative;
+    width: 120px;
+    height: 120px;
+  top: 1280px;
+  left:540px;
+  object-fit: cover;
+   
+  transform: rotate(-45deg);
+}.conteneu1 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: 750px;
+left:435px;
+object-fit: cover;
+ 
+transform: rotate(-40deg);
+}
+.conteneu2 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: 760px;
+left:475px;
+object-fit: cover;
+ 
+transform: rotate(-40deg);
+}
+.conteneu3 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: 780px;
+left:510px;
+object-fit: cover;
+ 
+transform: rotate(-40deg);
+}
+.conteneu4 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: 550px;
+left:170px;
+object-fit: cover;
+ 
+transform: rotate(-55deg);
+}
+.conteneu5 {
+  position: relative;
+  width: 120px;
+  height:120px;
+top: 650px;
+left:350px;
+object-fit: cover;
+ 
+transform: rotate(-60deg);
+}
+.conteneu6 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: 240px;
+left:300px;
+object-fit: cover;
+ 
+transform: rotate(-45deg);
+}
+.conteneu8 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: 260px;
+left:350px;
+object-fit: cover;
+ 
+transform: rotate(-45deg);
+}
+.conteneu7 {
+  position: relative;
+  width: 120px;
+  height: 120x;
+top: 700px;
+left:450px;
+object-fit: cover;
+ 
+transform: rotate(-40deg);
+}
+
+
+.contene {
+    position: relative;
+    width: 200px;
+    height: 200px;
+  top: -175px;
+  left:505px;
+  object-fit: cover;
+   
+  transform: rotate(-25deg);
+}
+.conten {
+    position: relative;
+    width: 200px;
+    height: 200px;
+  top: -400px;
+  left:690px;
+  object-fit: cover;
+   
+  transform: rotate(-10deg);
+}
+.conte {
+    position: relative;
+    width: 100px;
+    height: 100px;
+  top: -540px;
+  left:875px;
+  object-fit: cover;
+   
+  transform: rotate(10deg);
+}
+.conte1 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+top: -590px;
+left:1005px;
+object-fit: cover;
+ 
+transform: rotate(10deg);
+}
+.conte2 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+top: -840px;
+left:975px;
+object-fit: cover;
+ 
+transform: rotate(10deg);
+}
+.cont {
+    position: relative;
+    width: 200px;
+    height: 200px;
+  top: -870px;
+  left:1140px;
+  object-fit: cover;
+   
+  transform: rotate(25deg);
+}
+.con {
+    position: relative;
+    width: 100px;
+    height: 100px;
+  top: -980px;
+  left:1380px;
+  object-fit: cover;
+   
+  transform: rotate(30deg);
+}
+.con1 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+top: -970px;
+left:1330px;
+object-fit: cover;
+ 
+transform: rotate(30deg);
+}
+.co {
+    position: relative;
+    width: 120px;
+    height: 120px;
+  top: -1040px;
+  left:1515px;
+  object-fit: cover;
+   
+  transform: rotate(40deg);
+}
+.co1 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: -1040px;
+left:1515px;
+object-fit: cover;
+ 
+transform: rotate(40deg);
+}
+.c {
+  position: relative;
+  width: 100px;
+  height:100px;
+top: -1250px;
+left:590px;
+object-fit: cover;
+ 
+transform: rotate(-25deg);
+}
+.c11 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+top: -1290px;
+left:650px;
+object-fit: cover;
+ 
+transform: rotate(-25deg);
+}
+
+.c1 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: -1500px;
+left:750px;
+object-fit: cover;
+ 
+transform: rotate(-10deg);
+}
+.c12 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: -1550px;
+left:770px;
+object-fit: cover;
+ 
+transform: rotate(-10deg);
+}
+.c2 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: -1720px;
+left:930px;
+object-fit: cover;
+ 
+transform: rotate(10deg);
+}
+.c21 {
+  position: relative;
+  width: 120px;
+  height: 120px;
+top: -1750px;
+left:930px;
+object-fit: cover;
+ 
+transform: rotate(10deg);
+}
+.c3 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+top: -1920px;
+left:1051px;
+object-fit: cover;
+ 
+transform: rotate(25deg);
+}
+.c31 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+top: -1950px;
+left:1101px;
+object-fit: cover;
+ 
+transform: rotate(25deg);
+}
+.c4 {
+  position: relative;
+  width: 130px;
+  height: 130px;
+top: -2005px;
+left:700px;
+object-fit: cover;
+ 
+transform: rotate(-20deg);
+}
+.c41 {
+  position: relative;
+  width: 130px;
+  height: 130px;
+top: -2095px;
+left:680px;
+object-fit: cover;
+ 
+transform: rotate(-20deg);
+}
+.c5 {
+  position: relative;
+  width: 130px;
+  height: 130px;
+top: -2255px;
+left:890px;
+object-fit: cover;
+ 
+transform: rotate(16deg);
+}
+.c51 {
+  position: relative;
+  width: 130px;
+  height: 130px;
+top: -2335px;
+left:900px;
+object-fit: cover;
+ 
+transform: rotate(16deg);
+}
+.c6 {
+  position: relative;
+  width: 150px;
+  height: 150px;
+top: -2300px;
+left:870px;
+object-fit: cover;
+ 
+transform: rotate(-65deg);
+}
+.c61 {
+  position: relative;
+  width: 150px;
+  height: 150px;
+top: -2500px;
+left:870px;
+object-fit: cover;
+ 
+transform: rotate(-65deg);
+}
+.c7 {
+  position: relative;
+  width: 130px;
+  height: 130px;
+top: -2600px;
+left:730px;
+object-fit: cover;
+ 
+transform: rotate(-13deg);
+}
+.c71 {
+  position: relative;
+  width: 130px;
+  height: 130px;
+top: -2750px;
+left:710px;
+object-fit: cover;
+ 
+transform: rotate(-13deg);
+}
+.c8 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+top: -2680px;
+left:765px;
+object-fit: cover;
+ 
+transform: rotate(-3deg);
+}
+.c81 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+top: -2780px;
+left:875px;
+object-fit: cover;
+ 
+transform: rotate(3deg);
+}
+audio{
+  display: none;
+}
+.c82 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+top: -2750px;
+left:765px;
+object-fit: cover;
+ 
+transform: rotate(-3deg);
+}
+.c83 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+top: -2850px;
+left:865px;
+object-fit: cover;
+ 
+transform: rotate(3deg);
+}
+.c9 {
+  position: relative;
+  width: 170px;
+  height: 170px;
+top: -3350px!important;
+left:1200px;
+object-fit: cover;
+ 
+transform: rotate(40deg);
+}
+.c91 {
+  position: relative;
+  width: 170px;
+  height: 170px;
+top: -3350px!important;
+left:1200px;
+object-fit: cover;
+ 
+transform: rotate(40deg);
+}
+.image {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    transition: transform 0.5s, z-index 0.5s; /* Ajoute une transition fluide */
+}
+.imagenn {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-size: cover;
+  transition: transform 0.5s, z-index 0.5s; /* Ajoute une transition fluide */
+}
+
+.image1 {
+    background-image: url('violons-removebg-preview\ \(1\).png');
+    z-index: 1;
+}
+
+.image2 {
+    background-image: url('violons-removebg-preview\ \(1\).png');
+    z-index: 2;
+}
+
+.image3 {
+    background-image: url('piano.png');
+    z-index: 3;
+}
+.image4 {
+    background-image: url('harpe.png');
+    z-index: 4;
+}
+.image5 {
+    background-image: url('caisse\ claire.png');
+    z-index: 5;
+}
+.image6 {
+    background-image: url('vibra.png');
+    z-index: 6;
+}
+.image7 {
+    background-image: url('cymbale.png');
+    z-index: 7;
+}
+.image8 {
+    background-image: url('contrebasse.png');
+    z-index: 8;
+}
+.image9 {
+    background-image: url('cor.png');
+    z-index: 9;
+}
+.image10 {
+  background-image: url('trompette.png');
+  z-index: 10;
+}
+.image11 {
+  background-image: url('trombone.png');
+  z-index: 11;
+}
+.image12 {
+  background-image: url('tuba.png');
+  z-index: 12;
+}
+.image13 {
+  background-image: url('Capture6-removebg-preview.png');
+  z-index: 13;
+}
+.image14 {
+  background-image: url('basson.png');
+  z-index: 14;
+}
+.image15 {
+  background-image: url('flûte.png');
+  z-index: 15;
+}
+.image16 {
+  background-image: url('hautbois.png');
+  z-index: 16;
+}
+.image17 {
+  background-image: url('alto.png');
+  z-index: 17;
+}
+.image18 {
+  background-image: url('violoncelle.png');
+  z-index: 18;
+}
+.image19 {
+  background-image: url('Capture10-removebg-preview.png');
+  z-index: 19;
+}
+.image20 {
+  background-image: url('111111-removebg-preview.png');
+  z-index: 20;
+}
+.image:hover {
+    transform: scale(2.1); /* Agrandit l'image au survol */
+    z-index: 21; /* Place l'image au-dessus des autres au survol */
+}
+.bleuroi{
+  background-image: url('bleu.JPG');
+}
+.bleucann{
+  background-image: url('bleu\ canard.JPG');
+
+}
+.bleu1{
+  background-image: url('bleu1.JPG');
+  width: 170px;
+  left: 19px;
+}
+.bleu2{
+  background-image: url('bleu2.JPG');
+width: 170px;
+left: 15px;
+}
+.bleu3{
+  background-image:url('Capture.JPG') ;
+}
+.bleu4{
+  background-image: url('bleu\ 4.JPG');
+}
+.bleu5{
+  background-image: url('bleu5.JPG');
+}
+.rouge1{
+background-image: url('rouge1.JPG');
+width: 80px;
+height: 90px;
+left:15px;
+}
+.rouge2{
+  background-image: url('rouge2.JPG');
+}
+.rouge3{
+  background-image: url('rouge3.JPG');
+
+}
+.rouge4{
+  background-image: url('rouge4.JPG');
+}
+.rouge5{
+  background-image: url('rouge5.JPG');
+}
+.vert1{
+  background-image: url('vert1.JPG');
+ top:15px;
+ left: 15px;
+ width: 125px;
+ height: 145px;
+}
+.vert2{
+  background-image: url('vert2.JPG');
+  height: 150px;
+  top:20px;
+  width: 135px;
+}
+.vert3{
+  background-image: url('vert3.JPG');
+  left: 30px;
+  height: 150px;
+  width: 150px;
+  top:-10px;
+}
+.vert4{
+  background-image: url('vert4.JPG');
+  height: 170px;
+  width: 150px;
+}
+.jaun1{
+  background-image: url('jaun1.JPG');
+  height: 170px;
+}
+.jaun2{
+  background-image: url('jaun2.JPG');
+  height: 180px;
+}
+.jaun3{
+  background-image: url('jaun3.JPG');
+width: 200px;
+height: 100px;
+
+top: 15px;
+}
+.jaun4{
+  background-image: url('jaun4.JPG');
+  height: 160px;
+  top:-25px;
+}
+.nn{
+  transform: rotate(-10deg);
+}
+
+
+
+
+
+
+.arc-en-ciel {
+    position: relative;
+    display: inline-block;
+}
+
+.arc-en-ciel h1 {
+
+  background-image: linear-gradient(
+    to left,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red
+  );
+  -webkit-background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.demi-cercle {
+    width: 300px;
+    height: 150px;
+    border: 2px solid #000;
+    border-radius: 150px 150px 0 0;
+    position: relative;
+    text-align: center;
+      font-family: Arial, sans-serif;
+ 
+   
+}
+body .tous{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 10px;
+}
+h1 {
+    margin: 0;
+    padding: 20px;
+    font-size: 36px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+h1 span:nth-child(odd) {
+    font-size: 72px;
+}
+
+
+
+.bleuroi1{
+  background-image: url('bleu.JPG');
+}
+.bleucann1{
+  background-image: url('bleu\ canard.JPG');
+
+}
+.bleu11{
+  background-image: url('bleu1.JPG');
+
+}
+.bleu21{
+  background-image: url('bleu2.JPG');
+
+}
+.bleu31{
+  background-image:url('Capture.JPG') ;
+}
+.bleu41{
+  background-image: url('bleu\ 4.JPG');
+}
+.bleu51{
+  background-image: url('bleu5.JPG');
+}
+.rouge11{
+background-image: url('rouge1.JPG');
+
+}
+.rouge21{
+  background-image: url('rouge2.JPG');
+}
+.rouge31{
+  background-image: url('rouge3.JPG');
+
+}
+.rouge41{
+  background-image: url('rouge4.JPG');
+}
+.rouge51{
+  background-image: url('rouge5.JPG');
+}
+.vert11{
+  background-image: url('vert1.JPG');
+}
+.vert21{
+  background-image: url('vert2.JPG');
+
+}
+.vert31{
+  background-image: url('vert3.JPG');
+
+}
+.vert41{
+  background-image: url('vert4.JPG');
+
+}
+.jaun11{
+  background-image: url('jaun1.JPG');
+}
+.jaun21{
+  background-image: url('jaun2.JPG');
+}
+.jaun31{
+  background-image: url('jaun3.JPG');
+}
+.jaun41{
+  background-image: url('jaun4.JPG');
+}
+
